@@ -1,3 +1,5 @@
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/levensailor/py-teams-roomcount)
+
 # py-teams-roomcount
 
 Uses the Webex Teams SDK to count memberships of the rooms per token user or bot. 
