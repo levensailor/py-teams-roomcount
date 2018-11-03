@@ -9,7 +9,7 @@ Uses the Webex Teams SDK to count memberships of the rooms per token user or bot
 3. Run `python roomcount.py`
 
 ```sh
-(python3) jlevensailor in ~/Code/py-teams-roomcount 🌮 python roomcount.py
+$ python roomcount.py
 
 name: Brainstorming
 team: Code Camp
